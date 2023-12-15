@@ -1,6 +1,7 @@
 ## Alex Aldridge
 
 Current Location: Ontario, Canada
+
 Occupation: Self-taught designer, fan artist and programmer.
 
 ***
