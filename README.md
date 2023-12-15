@@ -1,4 +1,4 @@
-Alex Aldridge
+## Alex Aldridge
 
 Current Location: Ontario, Canada
 Occupation: Self-taught designer, fan artist and programmer.
@@ -44,5 +44,9 @@ I hold values such as hard work, determination, and pragmatism in high regard. T
 ## Looking Ahead:
 
 My future aspirations are centered on the growth and success of Sourceduty. I envision a time when my business thrives, allowing me to provide not only for myself but also for a family I hope to have one day. My goal is to create a sustainable and profitable business without necessarily becoming an industry leader.
+
+***
+
+Alex also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 
 ***
