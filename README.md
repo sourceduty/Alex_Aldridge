@@ -5,6 +5,8 @@ Current Location: Ontario, Canada
 Occupation: Self-taught designer, fan artist and programmer.
 
 ***
+![The King of Sourceduty](https://github.com/sourceduty/Alex_Aldridge/assets/123030236/465720d0-f456-4232-bdf4-387924a1beee)
+***
 
 ## Introduction:
 
