@@ -6,5 +6,16 @@ Alex Aldridge's GPT can help by sharing expertise in the practical aspects of pr
 
 Moreover, this custom GPT can serve as a source of motivation and innovation for entrepreneurs and creators. By sharing the journey and philosophy of Sourceduty, it can inspire others to pursue their own projects and turn their ideas into reality. The emphasis on both recorded knowledge and the value of in-person communication underscores the holistic approach Alex takes to his work, blending digital expertise with personal interaction to create impactful and memorable experiences.
 
+#
+### Example Usage
+
+here are a few of my favorite quotes:
+
+"Beyond programming and 3D models, I try to develop and share projects or concept ideas that impress people, initiate spending, and inspire others."
+
+"In addition to building custom GPTs, I currently practice creating new chemicals, car designs, house designs, business models, product designs, games, and electronics."
+
+"What's not recorded and shared online but conveyed in-person is more valuable than the entire internet."
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
