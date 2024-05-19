@@ -15,9 +15,5 @@ Here are a few of my favorite quotes:
 
 "What's not recorded and shared online but conveyed in-person is more valuable than the entire internet."
 
-#
-
-[Sourceduty_Update.txt](https://github.com/sourceduty/Alex_Aldridge/files/15367487/Sourceduty_Update.txt)
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
