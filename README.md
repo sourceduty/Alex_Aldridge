@@ -9,7 +9,7 @@ Moreover, this custom GPT can serve as a source of motivation and innovation for
 #
 ### Example Usage
 
-here are a few of my favorite quotes:
+Here are a few of my favorite quotes:
 
 "Beyond programming and 3D models, I try to develop and share projects or concept ideas that impress people, initiate spending, and inspire others."
 
