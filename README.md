@@ -4,16 +4,5 @@
 
 The custom GPT helps users by offering detailed explanations of Sourceduty's projects, providing advice on digital design and development processes, and fostering a sense of community and collaboration within the open-source community. It serves as a bridge between Alex's creative vision and the broader audience, making complex concepts accessible and inspiring others to pursue their own innovative ideas. Whether users are looking for technical support, design inspiration, or collaborative opportunities, this GPT stands ready to assist with a professional, enthusiastic, and forward-thinking approach.
 
-#
-### Example Usage
-
-Here are a few of my favorite quotes:
-
-"Beyond programming and 3D models, I try to develop and share projects or concept ideas that impress people, initiate spending, and inspire others."
-
-"In addition to building custom GPTs, I currently practice creating new chemicals, car designs, house designs, business models, product designs, games, and electronics."
-
-"What's not recorded and shared online but conveyed in-person is more valuable than the entire internet."
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
