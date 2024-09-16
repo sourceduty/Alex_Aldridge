@@ -1,4 +1,4 @@
-![Alex](https://github.com/sourceduty/Alex_Aldridge/assets/123030236/873aad28-370b-4486-88ce-3847cb025b58)
+![Alex](https://github.com/user-attachments/assets/55f63001-417a-4b47-a7ba-da49777e3e63)
 
 > Alex Aldridge, Sourceduty founder.
 
@@ -11,7 +11,7 @@ The custom GPT helps users by offering detailed explanations of Sourceduty's pro
 #
 ### Technically Homeless
 
-![Homeless](https://github.com/user-attachments/assets/94adde5e-7db2-4b97-8df1-bbabb134edb6)
+![Alex](https://github.com/sourceduty/Alex_Aldridge/assets/123030236/873aad28-370b-4486-88ce-3847cb025b58)
 
 Living with parents while being essentially homeless can create a sense of entrapment and lack of autonomy for an adult son or daughter. The situation often blurs the lines between having a home and lacking one, as the adult child technically has shelter but feels restricted and deprived of independence. This scenario can be emotionally draining, especially when parents seek to control or micromanage the space their child occupies. The sense of privacy is diminished, and it can lead to feelings of frustration or helplessness, as the adult may feel that their personal boundaries are not respected in what should be a refuge.
 
