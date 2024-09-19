@@ -16,6 +16,18 @@ The custom GPT helps users by offering detailed explanations of Sourceduty's pro
 Living with parents while being essentially homeless can create a sense of entrapment and lack of autonomy for an adult son or daughter. The situation often blurs the lines between having a home and lacking one, as the adult child technically has shelter but feels restricted and deprived of independence. This scenario can be emotionally draining, especially when parents seek to control or micromanage the space their child occupies. The sense of privacy is diminished, and it can lead to feelings of frustration or helplessness, as the adult may feel that their personal boundaries are not respected in what should be a refuge.
 
 #
+### Mental Health Wreck
+
+2014 to 2016: I suffered from an undiagnosed mental disorder.
+- I didn't accept that my brain stopped working.
+  
+2017 to 2019: I continued to suffer from a diagnosed mental disorder.
+- Doctors are retards and didn't monitor me.
+  
+2020 to 2024: I was rediagnosed, with medication adjustments and therapies.
+- Doctors were forced to rediagnose, make adjustments and help me.
+
+#
 ### Related Links
 
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
