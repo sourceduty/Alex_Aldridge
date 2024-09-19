@@ -18,6 +18,8 @@ Living with parents while being essentially homeless can create a sense of entra
 #
 ### Mental Health Wreck
 
+![Insane Jacket](https://github.com/user-attachments/assets/581397c0-05b0-4651-b811-617c78a991c4)
+
 2014 to 2016: I suffered from an undiagnosed mental disorder.
 - I didn't accept that my brain stopped working.
   
