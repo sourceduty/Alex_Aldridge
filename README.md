@@ -30,6 +30,10 @@ Living with parents while being essentially homeless can create a sense of entra
 - Doctors were forced to rediagnose, make adjustments and help me.
 
 #
+
+![Sourceduty Scale](https://github.com/user-attachments/assets/6866f474-42de-4b20-b62f-e90c8571cac5)
+
+#
 ### Related Links
 
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
