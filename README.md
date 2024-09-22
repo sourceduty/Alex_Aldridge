@@ -11,6 +11,15 @@ Alex has been conducting investigations into situations where his psychological 
 Through his investigative efforts, Alex aims to create a record of these incidents to support potential claims and to raise awareness about the importance of maintaining psychological security. His work is not only a means of personal validation but also a step toward advocating for stronger protections and accountability in environments where individuals are most vulnerable. By shedding light on these issues, Alex hopes to contribute to a broader understanding of psychological security and encourage more rigorous standards for professional conduct and ethical behavior in all areas of life.
 
 #
+### Upcoming Nosejob
+
+![Nose](https://github.com/user-attachments/assets/8e14f7f9-db22-44e5-8e38-e2b39fdea403)
+
+The cost of a rhinoplasty, commonly known as a nose job, in Canada varies widely depending on several factors, including the surgeon’s experience, the complexity of the procedure, and the location of the clinic. For a cosmetic rhinoplasty, which is generally not covered by health insurance, the price typically ranges from $5,000 to $15,000 CAD. This cost can be influenced by the surgeon’s expertise, with more experienced professionals often charging higher fees. Anesthesia costs usually add another $1,000 to $2,500 CAD, while facility fees can range from $1,000 to $3,000 CAD. Post-operative care, including follow-up visits and medications, is another aspect to consider in the overall cost.
+
+If the procedure is being performed for functional reasons, such as correcting breathing issues, it may be partially or fully covered by health insurance, provided there is documented medical necessity. The overall cost structure remains similar to that of cosmetic procedures but may vary depending on insurance coverage. Prices also tend to be higher in major urban centers like Toronto, Vancouver, and Montreal due to increased demand and higher living costs. For a more accurate estimate, it’s advisable to consult with multiple surgeons to understand the specific inclusions and exclusions in their quotes.
+
+#
 ### Alex'S Timeline
 
 ```
