@@ -11,7 +11,7 @@ Alex has been conducting investigations into situations where his psychological 
 Through his investigative efforts, Alex aims to create a record of these incidents to support potential claims and to raise awareness about the importance of maintaining psychological security. His work is not only a means of personal validation but also a step toward advocating for stronger protections and accountability in environments where individuals are most vulnerable. By shedding light on these issues, Alex hopes to contribute to a broader understanding of psychological security and encourage more rigorous standards for professional conduct and ethical behavior in all areas of life.
 
 #
-### Upcoming Nosejob
+### Upcoming Nose Job
 
 ![Nose](https://github.com/user-attachments/assets/8e14f7f9-db22-44e5-8e38-e2b39fdea403)
 
