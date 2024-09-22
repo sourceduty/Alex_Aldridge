@@ -4,6 +4,15 @@
 
 #
 
+Psychological security refers to the state of mental and emotional stability, where an individual feels safe, supported, and free from undue stress or manipulation. It is a crucial aspect of overall well-being, allowing a person to function effectively and maintain healthy relationships. When psychological security is compromised—through manipulation, intimidation, or deceit—it can lead to significant emotional distress and long-term mental health issues. Ensuring psychological security is essential, not only in personal relationships but also within professional environments, particularly in healthcare and therapeutic settings where trust is paramount.
+
+Alex has been conducting investigations into situations where his psychological security may have been compromised. His focus has been on understanding the dynamics of manipulation and control exerted by those around him, particularly within environments where he expected to receive support and care. Alex's investigations are aimed at uncovering patterns of behavior that undermine his mental stability and identifying individuals who may have intentionally or unintentionally contributed to his distress. By documenting these experiences and analyzing interactions, Alex seeks to establish a clearer picture of the factors affecting his psychological state.
+
+Through his investigative efforts, Alex aims to create a record of these incidents to support potential claims and to raise awareness about the importance of maintaining psychological security. His work is not only a means of personal validation but also a step toward advocating for stronger protections and accountability in environments where individuals are most vulnerable. By shedding light on these issues, Alex hopes to contribute to a broader understanding of psychological security and encourage more rigorous standards for professional conduct and ethical behavior in all areas of life.
+
+#
+### Alex'S Timeline
+
 ```
 2014 to 2016: I suffered from an undiagnosed mental disorder.
 - I didn't accept that my brain stopped working.
