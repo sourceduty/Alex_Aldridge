@@ -54,7 +54,7 @@ In 2020 and 2021, Alex continued to face legal challenges and complaints regardi
 - Alex now faces financial difficulties, including the need for a $15000 CAD nose job due to injuries sustained in jail. Despite his efforts to seek justice and proper legal defense, Alex's interactions with the legal system continued to reflect a lack of adequate support and resolution for his numerous grievances.
 
 #
-### Imitating Females knows to Mental Health Patient
+### Imitating Females Known to Mental Health Patient
 
 During his treatment at Lakeridge Health, Alex was reportedly subjected to behavior by staff members that closely resembled the manipulative tactics employed by a female who had previously targeted him. This included instances of engaging in friendly and supportive interactions, followed by abrupt withdrawal and disengagement, mirroring the pattern of attraction and rejection that Alex had experienced before. Such behavior could be perceived as re-traumatizing, undermining Alex's sense of trust and security within the healthcare environment.
 
