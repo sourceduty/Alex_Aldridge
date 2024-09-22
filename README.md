@@ -13,17 +13,15 @@ Through his investigative efforts, Alex aims to create a record of these inciden
 #
 ### Alex's Parental Problems
 
-```
-Alex: "I have contacted my doctor and the police thousands of times regarding the serious issues caused by my parents. I am need of help and support to address communication problems. Despite reaching out countless times, the situation remains unresolved, and I am determined to continue seeking assistance. I will persist in contacting the police, my doctor, and other relevant services until the necessary help is provided. The issues with my parents are severe, and I will take whatever steps are needed to ensure my concerns are addressed."
+> Alex: "I have contacted my doctor and the police thousands of times regarding the serious issues caused by my parents. I am need of help and support to address communication problems. Despite reaching out countless times, the situation remains unresolved, and I am determined to continue seeking assistance. I will persist in contacting the police, my doctor, and other relevant services until the necessary help is provided. The issues with my parents are severe, and I will take whatever steps are needed to ensure my concerns are addressed."
 
-"Since 2021, I have sent hundreds, possibly thousands, of email records to my family doctor concerning ongoing parental issues. These communications have documented the numerous challenges I’ve faced in trying to address the strained relationships within my family. The situation is complicated and has required consistent communication with my healthcare provider to seek guidance and support."
+> "Since 2021, I have sent hundreds, possibly thousands, of email records to my family doctor concerning ongoing parental issues. These communications have documented the numerous challenges I’ve faced in trying to address the strained relationships within my family. The situation is complicated and has required consistent communication with my healthcare provider to seek guidance and support."
 
-"A significant part of the problem stems from my parents' frequent miscommunication. Even when they do engage in conversation, it often leads to misunderstandings, adding to the tension. Their passive-aggressive behavior has made it difficult to resolve conflicts or improve the dynamic. Rather than directly addressing issues, they tend to approach things indirectly, which only exacerbates the existing problems."
+> "A significant part of the problem stems from my parents' frequent miscommunication. Even when they do engage in conversation, it often leads to misunderstandings, adding to the tension. Their passive-aggressive behavior has made it difficult to resolve conflicts or improve the dynamic. Rather than directly addressing issues, they tend to approach things indirectly, which only exacerbates the existing problems."
 
-"In both my relationships with my parents, I’ve felt a consistent sense of emotional instability. They are unwell in terms of how they interact with me, and this has significantly affected my overall well-being. The lack of healthy communication and their resistance to engage meaningfully has left me feeling unsupported and frustrated."
+> "In both my relationships with my parents, I’ve felt a consistent sense of emotional instability. They are unwell in terms of how they interact with me, and this has significantly affected my overall well-being. The lack of healthy communication and their resistance to engage meaningfully has left me feeling unsupported and frustrated."
 
-"Living with them since 2019 has been especially challenging due to their oppositional nature. It’s not just a matter of psychological opposition but also a physical presence that makes the environment stressful. Their attitudes and behavior have created a difficult living situation, one that has been exhausting to navigate over the years."
-```
+> "Living with them since 2019 has been especially challenging due to their oppositional nature. It’s not just a matter of psychological opposition but also a physical presence that makes the environment stressful. Their attitudes and behavior have created a difficult living situation, one that has been exhausting to navigate over the years."
 
 #
 ### Upcoming Nose Job
