@@ -24,6 +24,17 @@ Through his investigative efforts, Alex aims to create a record of these inciden
 > "Living with them since 2019 has been especially challenging due to their oppositional nature. It’s not just a matter of psychological opposition but also a physical presence that makes the environment stressful. Their attitudes and behavior have created a difficult living situation, one that has been exhausting to navigate over the years."
 
 #
+### Healthcare Investigations
+
+![Screenshot 2024-09-22 130705](https://github.com/user-attachments/assets/a533eb94-f2c0-47d6-9d41-a581b899cf51)
+
+Alex has expressed significant concerns regarding his recent psychological treatment at Lakeridge Health, reporting that the behavior of some staff members distressingly mirrored the manipulative tactics of an individual who had previously caused him harm. According to Alex, these actions included unpredictable shifts in engagement and withdrawal, which not only recreated a troubling emotional environment but also severely impacted his trust in the healthcare system. This situation has exacerbated his emotional distress, hindering his treatment process and overall well-being.
+
+Alex believes that such behavior from healthcare professionals is highly inappropriate and damaging, especially in a therapeutic context where ethical standards and professionalism are expected to support healing and trust. The replication of past traumatic dynamics by staff has not only re-traumatized him but also prolonged his psychological suffering.
+
+As a result, Alex is seeking a comprehensive investigation into the matter to ensure that the conduct of the staff aligns with professional and ethical standards. He requests that necessary measures be taken to prevent such behavior in the future, emphasizing the importance of treating all patients with the respect and sensitivity they deserve. Alex anticipates a prompt response and the initiation of a thorough investigation into his concerns.
+
+#
 ### Upcoming Nose Job
 
 ![Nose](https://github.com/user-attachments/assets/8e14f7f9-db22-44e5-8e38-e2b39fdea403)
