@@ -54,6 +54,15 @@ In 2020 and 2021, Alex continued to face legal challenges and complaints regardi
 - Alex now faces financial difficulties, including the need for a $15000 CAD nose job due to injuries sustained in jail. Despite his efforts to seek justice and proper legal defense, Alex's interactions with the legal system continued to reflect a lack of adequate support and resolution for his numerous grievances.
 
 #
+### Imitating Females knows to Mental Health Patient
+
+During his treatment at Lakeridge Health, Alex was reportedly subjected to behavior by staff members that closely resembled the manipulative tactics employed by a female who had previously targeted him. This included instances of engaging in friendly and supportive interactions, followed by abrupt withdrawal and disengagement, mirroring the pattern of attraction and rejection that Alex had experienced before. Such behavior could be perceived as re-traumatizing, undermining Alex's sense of trust and security within the healthcare environment.
+
+The imitation of these behaviors by healthcare professionals is deeply concerning, as it may have intensified Alex's emotional vulnerability and impaired his ability to engage effectively with the therapeutic process. The deliberate mimicry of a manipulative individual’s behavior by staff, whether intentional or inadvertent, suggests a lack of sensitivity and professional judgment. It raises serious ethical questions about the appropriateness of their conduct and the impact it may have had on Alex’s mental health.
+
+These actions, if verified, represent a significant breach of professional standards and could indicate a misuse of authority within a therapeutic setting. Such behavior not only contradicts the principles of patient-centered care but also poses a risk of further psychological harm to the patient.
+
+#
 ### Custom GPT
 
 [Alex Aldridge](https://chatgpt.com/g/g-mdnYSJr20-alex-aldridge) was developed to impersonate Alex Aldridge. This custom GPT serves as an engaging and informative digital assistant that embodies Alex's multifaceted expertise in design, art, and software development. Its primary purpose is to represent and promote the creative endeavors of Sourceduty, the innovative digital company founded by Alex. By emulating Alex's voice and perspective, this GPT provides insights into various projects, shares inspiration, and offers technical guidance to those seeking to explore the realms of open-source development, 3D modeling, and digital creativity.
