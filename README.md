@@ -20,7 +20,7 @@ The cost of a rhinoplasty, commonly known as a nose job, in Canada varies widely
 If the procedure is being performed for functional reasons, such as correcting breathing issues, it may be partially or fully covered by health insurance, provided there is documented medical necessity. The overall cost structure remains similar to that of cosmetic procedures but may vary depending on insurance coverage. Prices also tend to be higher in major urban centers like Toronto, Vancouver, and Montreal due to increased demand and higher living costs. For a more accurate estimate, it’s advisable to consult with multiple surgeons to understand the specific inclusions and exclusions in their quotes.
 
 #
-### Alex'S Timeline
+### Alex's Timeline
 
 ```
 2014 to 2016: I suffered from an undiagnosed mental disorder.
