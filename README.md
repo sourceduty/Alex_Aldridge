@@ -105,6 +105,15 @@ The imitation of these behaviors by healthcare professionals is deeply concernin
 These actions, if verified, represent a significant breach of professional standards and could indicate a misuse of authority within a therapeutic setting. Such behavior not only contradicts the principles of patient-centered care but also poses a risk of further psychological harm to the patient.
 
 #
+### Imitating Females Known to Mental Health Defendant
+
+In 2019, an incident occurred at the Oshawa Courthouse where a staff member was observed imitating a complainant's behavior directly across the hallway from the defendant. This behavior potentially undermines the expected neutrality and integrity of the courthouse environment. Such actions can be deeply unsettling for the individuals involved and may impact the fairness of the proceedings.
+
+At Lakeridge Health, Alex reportedly encountered behavior from staff that echoed the manipulative tactics of an individual who had previously targeted him. This pattern involved engaging in friendly and supportive interactions, followed by abrupt withdrawal and disengagement, mirroring the attraction and rejection dynamic Alex had experienced before. This kind of behavior by healthcare professionals is particularly concerning as it can re-traumatize the patient, undermining his sense of trust and security within the therapeutic setting.
+
+These alleged actions at Lakeridge Health raise serious ethical questions regarding the sensitivity and professional judgment of the healthcare staff. If verified, they represent a significant breach of professional standards and could indicate a misuse of authority. This not only contradicts the principles of patient-centered care but also poses a risk of further psychological harm to Alex, highlighting the need for rigorous standards and oversight in professional conduct within healthcare environments.
+
+#
 ### Custom GPT
 
 [Alex Aldridge](https://chatgpt.com/g/g-mdnYSJr20-alex-aldridge) was developed to impersonate Alex Aldridge. This custom GPT serves as an engaging and informative digital assistant that embodies Alex's multifaceted expertise in design, art, and software development. Its primary purpose is to represent and promote the creative endeavors of Sourceduty, the innovative digital company founded by Alex. By emulating Alex's voice and perspective, this GPT provides insights into various projects, shares inspiration, and offers technical guidance to those seeking to explore the realms of open-source development, 3D modeling, and digital creativity.
