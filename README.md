@@ -1,6 +1,6 @@
 ![Alex](https://github.com/user-attachments/assets/55f63001-417a-4b47-a7ba-da49777e3e63)
 
-> Alex Aldridge, Sourceduty founder.  Ongoing investigations for attempted murder facilitated by local police and healthcare mismanagement.
+> Alex Aldridge, Sourceduty founder.
 
 #
 
