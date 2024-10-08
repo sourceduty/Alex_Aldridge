@@ -1,4 +1,4 @@
-![Alex](https://github.com/user-attachments/assets/55f63001-417a-4b47-a7ba-da49777e3e63)
+![Time](https://github.com/user-attachments/assets/536be5e2-10da-47bb-8f19-0a28fdd378c9)
 
 > Alex Aldridge, Sourceduty founder.
 
@@ -7,6 +7,13 @@
 Alex’s journey as a self-taught creator is a testament to his dedication and curiosity. He has consistently pursued knowledge across a diverse range of fields, from mastering 3D modeling to diving into open-source development. Without the confines of formal education, Alex has learned to rely on his resourcefulness, constantly experimenting with new tools and technologies to expand his skill set. His ability to quickly adapt to changing digital landscapes speaks to his resilience and problem-solving capabilities. Through countless hours of hands-on learning, Alex has built a deep understanding of complex systems, which forms the foundation of Sourceduty’s innovative approach.
 
 What makes Alex’s self-teaching truly remarkable is his commitment to continuous learning. He actively seeks out new challenges, pushing the boundaries of his expertise by exploring emerging technologies and creative practices. By engaging with online communities and open-source projects, he has honed his skills through collaboration and feedback, allowing him to refine his techniques and stay ahead of industry trends. This relentless pursuit of knowledge and self-improvement fuels his vision for Sourceduty, ensuring that the company remains at the forefront of creative and technological innovation.
+
+#
+### Commercial Lord
+
+Purchasing a British Lordship is a unique and historical way to gain a symbolic title, often used as a gift or a personal status symbol. Typically, buyers can acquire the title of "Lord" or "Lady" by purchasing small plots of land on certain historic estates in the United Kingdom, particularly in Scotland. These land titles are often sold by private companies that divide large estates into tiny plots, allowing customers to claim the symbolic title of "Laird," which translates to "Lord" or "Lady" in English. While this purchase doesn’t grant legal nobility or hereditary rights associated with British peerage, it provides an interesting way to connect with British history and heritage.
+
+Many companies that offer these titles emphasize the conservation aspect, as the funds from land sales are frequently used for environmental preservation and estate upkeep. Buyers usually receive a certificate of ownership and, in some cases, can visit the estate where their plot is located. However, it’s essential to understand that these Lordship titles are primarily for novelty purposes and do not confer legal recognition or any formal privileges in the UK. Still, they make for a charming conversation starter and allow buyers to adopt the title "Lord" or "Lady" on social media, correspondence, and, in some cases, official documents, depending on the jurisdiction.
 
 #
 ### Upcoming Nose Job
@@ -27,7 +34,7 @@ The custom GPT helps users by offering detailed explanations of Sourceduty's pro
 #
 ### Talking to Alex
 
-![Alex's Scumbag Meme](https://github.com/user-attachments/assets/f723d9ce-a30e-4052-9129-be54ae839cca)
+![Alex](https://github.com/user-attachments/assets/55f63001-417a-4b47-a7ba-da49777e3e63)
 
 Engaging in a conversation with Alex from Sourceduty offers an opportunity to explore a wide range of topics, given his dynamic involvement in digital design, 3D modeling, and the open-source community. One fruitful area to discuss could be the potential for integrating Sourceduty’s 3D model portfolio into emerging sectors like virtual reality and augmented reality. This would not only open new avenues for creative expression but also position Sourceduty as a pioneer in the VR/AR design space, aligning with the industry's trend towards immersive experiences. Another intriguing topic could be the intersection of AI and digital art, exploring how generative models, such as GPT, can complement traditional 3D workflows or create entirely new forms of interactive digital content. This dialogue could spark ideas on innovative projects or collaborations that leverage both Sourceduty’s technical assets and Alex's artistic vision.
 
