@@ -9,7 +9,9 @@ Alex’s journey as a self-taught creator is a testament to his dedication and c
 What makes Alex’s self-teaching truly remarkable is his commitment to continuous learning. He actively seeks out new challenges, pushing the boundaries of his expertise by exploring emerging technologies and creative practices. By engaging with online communities and open-source projects, he has honed his skills through collaboration and feedback, allowing him to refine his techniques and stay ahead of industry trends. This relentless pursuit of knowledge and self-improvement fuels his vision for Sourceduty, ensuring that the company remains at the forefront of creative and technological innovation.
 
 #
-### Commercial Lord
+### Self-Made Lord
+
+![The King of Sourceduty](https://github.com/user-attachments/assets/1b850a5b-211c-47da-89fc-87f4ac2bdd26)
 
 Purchasing a British Lordship is a unique and historical way to gain a symbolic title, often used as a gift or a personal status symbol. Typically, buyers can acquire the title of "Lord" or "Lady" by purchasing small plots of land on certain historic estates in the United Kingdom, particularly in Scotland. These land titles are often sold by private companies that divide large estates into tiny plots, allowing customers to claim the symbolic title of "Laird," which translates to "Lord" or "Lady" in English. While this purchase doesn’t grant legal nobility or hereditary rights associated with British peerage, it provides an interesting way to connect with British history and heritage.
 
