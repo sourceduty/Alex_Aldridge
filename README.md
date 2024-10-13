@@ -44,12 +44,12 @@ Delving into vocations, Alex’s multifaceted skills and the company's unique as
 
 #
 
-![Sourceduty Scale](https://github.com/user-attachments/assets/6866f474-42de-4b20-b62f-e90c8571cac5)
+> Alex "*I don't think the same as other people and it's not a problem. It's my problem that takes me time to configure on-paper and digitally.*"
 
 #
-
+![Sourceduty Scale](https://github.com/user-attachments/assets/6866f474-42de-4b20-b62f-e90c8571cac5)
+#
 ![Dumpster Portal](https://github.com/user-attachments/assets/80f86021-7883-455d-9dce-266878a1721d)
-
 #
 ### Related Links
 
