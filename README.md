@@ -1,4 +1,4 @@
-![Time](https://github.com/user-attachments/assets/536be5e2-10da-47bb-8f19-0a28fdd378c9)
+![Hughes](https://github.com/user-attachments/assets/689d1545-392d-46ff-93f6-4393648ca170)
 
 > Alex Aldridge, Sourceduty founder.
 
@@ -49,7 +49,7 @@ Delving into vocations, Alex’s multifaceted skills and the company's unique as
 #
 ![Sourceduty Scale](https://github.com/user-attachments/assets/6866f474-42de-4b20-b62f-e90c8571cac5)
 #
-![Dumpster Portal](https://github.com/user-attachments/assets/80f86021-7883-455d-9dce-266878a1721d)
+![Time](https://github.com/user-attachments/assets/536be5e2-10da-47bb-8f19-0a28fdd378c9)
 #
 ### Related Links
 
